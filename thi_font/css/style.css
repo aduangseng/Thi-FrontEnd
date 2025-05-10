@@ -1,0 +1,28 @@
+.grid{
+    max-width: 100%;
+    width: 1000px;
+    margin: 0 auto;
+}
+.grid-col__list{
+    list-style: none;
+    
+}
+.grid-col__item{
+    display: inline-block;
+    padding-left: 80px
+}
+.grid-row__sosanh{
+    
+}
+.grid-col__list-right{
+    margin-left: 50px;
+    
+}
+.background__sp{
+    background-image: url(https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2avyhx9kkaadf@resize_w80_nl.webp);
+    padding-top: 100%;
+    background-repeat: no-repeat;
+}
+.tensp{
+    
+}
